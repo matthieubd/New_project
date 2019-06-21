@@ -20,6 +20,15 @@ width:50%;
     padding: 5PX;
 }
 
+@media (max-width: 540px) {
+#carouselExampleIndicators{
+width:100%;
+    margin: auto;
+    padding: 5PX;
+}
+
+	
+}
 
 .footer{	background-image: url("images/pe_footer2.png");
 background-size: contain; 
