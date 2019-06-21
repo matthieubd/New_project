@@ -1,5 +1,6 @@
 .banner{	background-image: url("images/pe_banner.png");
 background-size: contain; 
+background-repeat: no-repeat;
 height: 300px; }
 
 .img-petite{
@@ -12,4 +13,5 @@ width: 200px;
 
 .footer{	background-image: url("images/pe_footer2.png");
 background-size: contain; 
+background-repeat: no-repeat;
 height: 230px;  }
