@@ -1,0 +1,16 @@
+.banner{	background-image: url("images/PE_BANNER.PNG");
+background-size: cover; 
+
+height: 300px; }
+
+.img-petite{
+width: 200px;	
+
+}
+
+
+
+
+.footer{	background-image: url("images/PE_FOOTER.PNG");
+background-size: cover; 
+height: 230px;  }
