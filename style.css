@@ -1,4 +1,4 @@
-.banner{	background-image: url("images/PE_BANNER.png");
+.banner{	background-image: url("images/pe_banner.png");
 background-size: cover; 
 
 height: 300px; }
@@ -11,6 +11,6 @@ width: 200px;
 
 
 
-.footer{	background-image: url("images/PE_FOOTER.png");
+.footer{	background-image: url("images/pe_footer.png");
 background-size: cover; 
 height: 230px;  }
