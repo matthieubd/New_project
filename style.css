@@ -13,6 +13,11 @@ width: 200px;
 }
 
 
+#carouselExampleIndicators{
+width:50%;
+    margin: auto;
+    padding: 5PX;
+}
 
 
 .footer{	background-image: url("images/pe_footer2.png");
